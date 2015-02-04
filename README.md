@@ -2,7 +2,7 @@
 
 This repository took code from
 
-* Alec Jacobson's impbcopy (http://www.alecjacobson.com/weblog/?p=3816)
+* http://www.alecjacobson.com/weblog/?p=3816
 * https://github.com/jcsalterego/pngpaste
 * http://apple.stackexchange.com/questions/105185/how-can-i-stop-my-retina-display-from-taking-2x-sized-screenshots
 
